@@ -1,4 +1,4 @@
-## IoC Skills Bootcamp Week 2 Burp Suite
+## IoC Skills Bootcamp Week 2 - Burp Suite
 
 Organisations often ask for a “vulnerability assessment” or a “penetration test” of their systems. A vulnerability assessment is a systematic approach to examining core assets and measuring whether they pose a threat to the organisation against a set of criteria. A penetration test is where an “attacker” will attempt to gain access to a system and document their process for achieving this.
 
