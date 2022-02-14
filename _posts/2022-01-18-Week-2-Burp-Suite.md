@@ -1,3 +1,5 @@
+## IoC Skills Bootcamp Week 2 Burp Suite
+
 Organisations often ask for a “vulnerability assessment” or a “penetration test” of their systems. A vulnerability assessment is a systematic approach to examining core assets and measuring whether they pose a threat to the organisation against a set of criteria. A penetration test is where an “attacker” will attempt to gain access to a system and document their process for achieving this.
 
 We were given the OWASP Juice Shop example on the TryHackMe platform. OWASP (Open Web Application Security Project) publish their Top 10 Web vulnerabilities, and this exercise is designed to showcase these using a known vulnerable example. These vulnerabilities are all too commonly found in real-world web applications, and so these methods are highly relevant. In particular, it focussed on Injection, Broken Authentication, Sensitive Data Exposure and Broken Access Control.
