@@ -12,4 +12,4 @@ During the week I also attended an online Splunk4Rookies workshop hosted by some
 
 This week gave me a fascinating insight into the work of a SOC analyst and the tools that I could expect to use in such a position. I understand that I have only scratched the surface of what Splunk is truly capable of, nevertheless, I hope with some more practice and daily use I will be on the way to becoming a Splunk Master.
 
-![MyFirstDashboardxD](docs/assets/SplunkMyFirstDashboard1.PNG)
+![MyFirstDashboardxD](/docs/assets/SplunkMyFirstDashboard1.PNG)
