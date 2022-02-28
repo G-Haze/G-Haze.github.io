@@ -1,7 +1,3 @@
-```
-published:false
-```
-
 ## IoC Skills Bootcamp Week 4 - Metasploit
 
 This week we looked at another very commonly used offensive security testing tool, the Metasploit Framework, that can be used to probe vulnerabilities on networks and servers and deploy known attack vectors (CVEs) against them. As usual, to aid with our learning we would be completing the [Metasploit](https://tryhackme.com/room/rpmetasploit) room on tryhackme.
