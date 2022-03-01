@@ -10,7 +10,6 @@ After gathering sufficient information to identify a weakness, we can search thr
 
 The chosen exploit must then be paired with a suitable payload, usually shellcode, before executing. In the example I used the `exploit/multi/handler` module along with meterpreter reverse_tcp to gain access to the target machine. Meterpreter is an interactive shell that resides entirely in memory, writes nothing to disk and creates no new processes after being injected. It is popular for these reasons as it leaves limited evidence and impact on the machine.
 
-
 Once on a target machine, Metasploit's quiver contains a full suite of post-exploitation tools, including privilege escalation, pass the hash, packet sniffing, screen capture, keyloggers, and pivoting tools. You can also set up a persistent backdoor in case the machine in question gets rebooted.
 
 More and more features are being added to Metasploit every year, include a fuzzer to identify potential security flaws in binaries, as well as a long list of auxiliary modules too long to list here.
