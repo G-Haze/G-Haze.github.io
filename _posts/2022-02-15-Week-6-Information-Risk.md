@@ -4,20 +4,22 @@ published: false
 
 ## IoC Skills Bootcamp Week 6 - Information Risk
 
-Cyber security practitioners should have an awareness of information risk management - it is fundamental to the role of protecting data, information, and computer systems. You should think about the threats, vulnerabilities and assets that contribute to give an overall risk, and how that can be assessed based on likelihood and severity. You should consider how to mitigate attacks that may impact on confidentiality, integrity and availability of information.
-
 Information Security Principles
-CIA Triad
-Confidentiality
-Integrity
-Availability
 
-Asset
+Fundamental to the practice of Cyber Security is the concept of the CIA Triad. This combines three key principles of data security; Confidentiality, Integrity and Availability, that act as a foundation for developing systems and policies to protect data.
+
+[CIA](/docs/assets/CIATriad.PNG)
+
+Confidentiality - keeping data secure and only available to authorised individuals, entities or processes
+Integrity - keeping data clean and accurate
+Availability - keeping data accessible and usable upon demand by an authorised individual or entity
 
 Threat
 Vulnerability
 Risk
 Impact
+
+Cyber security practitioners must have an awareness of information risk management as it is pivotal to the role of protecting data, information and computer systems. The threats to an entity or system, its vulnerabilities and the nature of its assets all contribute to its overall risk and should be assessed based on likelihood and severity. With this information a plan can be put in place to mitigate attacks that may impact on confidentiality, integrity and availability of information.
 
 ISO 27001
 
