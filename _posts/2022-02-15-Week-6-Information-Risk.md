@@ -1,7 +1,3 @@
----
-published: false
----
-
 ## IoC Skills Bootcamp Week 6 - Information Risk
 
 Information Security Principles
