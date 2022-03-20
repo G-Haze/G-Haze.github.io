@@ -2,23 +2,23 @@
 
 ### Information Security Principles
 
-Fundamental to the practice of Cyber Security is the concept of the CIA Triad. This combines three key principles of data security; Confidentiality, Integrity and Availability, that act as a foundation for developing systems and policies to protect data.
+Fundamental to the practice of cyber security is the concept of the CIA Triad. This combines three key principles of data security; confidentiality, integrity and availability, that act as a foundation for developing systems and policies to protect data.
 
 ![CIA](/docs/assets/CIATriad.PNG)
 
-Confidentiality - keeping data secure and only available to authorised individuals, entities or processes
-Integrity - keeping data clean and accurate
-Availability - keeping data accessible and usable upon demand by an authorised individual or entity
+- Confidentiality: keeping data secure and only available to authorised individuals, entities or processes
+- Integrity: keeping data clean and accurate
+- Availability: keeping data accessible and usable upon demand by an authorised individual or entity
 
 It is important to understand the difference between vulnerabilities and threats and how these translate into risk. 
 
-A threat is any event that has the potential to cause harm to a system or organisation. There are natural threats, which are caused by Mother Nature such as flooding or tornadoes. Intentional threats where someone acts with the intent to cause harm, for example, a disgruntled employee who aims to get back at the company which fired him. And lastly, unintentional threats such as losing a memory stick with records on it or accidently sending data to the wrong recipient by mistake.
+A **threat** is any event that has the potential to cause harm to a system or organisation. There are natural threats, which are caused by Mother Nature such as flooding or tornadoes. Intentional threats where someone acts with the intent to cause harm, for example, a disgruntled employee who aims to get back at the company which fired him. And lastly, unintentional threats such as losing a memory stick with records on it or accidently sending data to the wrong recipient by mistake.
 
-Whereas a vulnerability is a weakness in a security system or asset that leaves it susceptible to exploitation by an attacker _(or threat)_. These could be general vulnerabilities like the building and facilities not having sufficient security measures allowing unauthorised access to it or information-specific such as unsecured computers and servers, personal devices and operating system vulnerabilities that have not been patched. 
+Whereas a **vulnerability** is a weakness in a security system or asset that leaves it susceptible to exploitation by an attacker _(or threat)_. These could be general vulnerabilities like the building and facilities not having sufficient security measures allowing unauthorised access to it or information-specific such as unsecured computers and servers, personal devices and operating system vulnerabilities that have not been patched. 
 
 **Threat x Vulnerability = Risk**
 
-We can therefore refer to risk as the potential that a given threat will exploit a vulnerability and cause harm to the system or organisation in question.
+We can therefore refer to **risk** as the potential that a given threat will exploit a vulnerability and cause harm to the system or organisation in question.
 
 ### ISO 27001
 
@@ -33,7 +33,7 @@ In order to gain ISO 27001 certification an organisation must show that they hav
 
 Gaining certification demonstrates that the company and its senior management is serious about their information security practices. This gives assurance to their customers as it shows they are following applicable laws and regulations and have a suitable process for identify, assessing and managing organisational risk, verified by a third party. This will enhance their organisation's reputation which in turn may result in new business opportunities. 
 
-There are also other country specific information security standards. In the UK we have the National Cyber Security Centre's (NCSC) Cyber Essentials and Cyber Essentials Plus. The Cyber Essentials certification comprises of a self-assessment against five basic security controls; Firewalls, Secure configuration, User access control, Malware protection and Patch management, which is then reviewed by a qualified assessor. It is designed so that if all the criteria are adequately met the business should have sufficient defenses in place to protect themselves from the majority of common cyber attacks. Cyber Essentials Plus goes a step further by having a qualified assessor examine and conduct a technical audit of the same five controls instead of the self-assessment.
+There are also other country specific information security standards. In the UK we have the National Cyber Security Centre's (NCSC) **Cyber Essentials** and **Cyber Essentials Plus**. The Cyber Essentials certification comprises of a self-assessment against five basic security controls; Firewalls, Secure configuration, User access control, Malware protection and Patch management, which is then reviewed by a qualified assessor. It is designed so that if all the criteria are adequately met the business should have sufficient defenses in place to protect themselves from the majority of common cyber attacks. Cyber Essentials Plus goes a step further by having a qualified assessor examine and conduct a technical audit of the same five controls instead of the self-assessment.
 
 ### Conclusion
 
